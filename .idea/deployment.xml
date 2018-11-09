@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/herrengion/CODE_SNIPPETS" uploadOnCheckin="b5e18fb5-a3ce-4359-9aa3-810af0b1042f">
+    <serverData>
+      <paths name="https://github.com/herrengion/CODE_SNIPPETS">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/herrengion/CODE_SNIPPETS" />
+  </component>
+</project>
